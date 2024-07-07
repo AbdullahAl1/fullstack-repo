@@ -63,7 +63,7 @@ This repository serves as a unified project that combines two independent reposi
 
 ### 3. Automate Submodule Updates with GitHub Actions
 
-1. **Create a GitHub Actions Workflow**:
+1. **Create a GitHub Actions Workflow(TESTING)**:
     - Add a `.github/workflows/update_submodules.yml` file in `fullstack-repo`:
     ```yaml
     name: Update Submodules
